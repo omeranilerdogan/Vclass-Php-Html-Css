@@ -1,0 +1,131 @@
+#logo{
+
+	
+	height:30%;
+	width:30%;
+	position:sticky;
+	top:20px;
+	z-index:1;
+	font-size:18px;
+	margin-left:30px;
+	
+	
+}
+   menu{
+	float:center;
+	height:auto;
+	padding:3px;
+	margin-left:1300px;
+	
+}
+menu ul{
+	width:auto;
+	height:100%;
+	margin:0;
+	padding:0
+}
+menu ul li{
+	list-style:none;
+	display:inline-block;
+	margin:0 8px;
+	line-height:80px
+}
+menu ul li a{
+	
+		  line-height:50px;
+		  text-decoration:none;
+		  color:black;
+		  border-bottom:2px solid #b4b4b4;
+		  padding-left: 10px;
+		  display:block;
+}
+menu ul li a:hover{
+	color:white;
+    background-color: #adadad;
+	border-radius:2px;
+}
+.hesap{
+	width: 400px;
+	height: 600px;
+	border: 1px solid;
+	position: absolute;
+	font-size:  20px;
+	margin: 150px;
+	margin-top: 10%;
+}
+.rsm{
+	margin: 10px;
+	width: 40px;
+	height: 40px;
+}
+.nkt{
+	list-style-type: none;
+	margin: 100;
+	padding: 15px;
+	display: flex;
+	margin-right: 10px;
+	font-family: bold;
+	margin-top: 190px;
+	word-spacing: 5px;
+	font-size: 20px;
+	}
+	.hak{
+		text-decoration: underline;
+		margin: 15px;
+		margin-top: 5px;
+		font-size:18px;
+		font-style: bold;
+		position: absolute;
+		text-align: center;
+	}
+	.ha{
+		font-size: 15px;
+		font-style: italic;
+		margin-top: 0px;
+	}
+	.sorular{
+		width: 550;
+		height: 550;
+		border: 1px solid;
+		position: absolute;
+		
+		margin:1000px;
+		margin-top: 190px;
+
+	}
+	.btnn {
+		
+		position: absolute;
+		display: flex;
+		font-size: 15px;
+		margin: 150px;
+		background-color: gray;
+		margin-top: -80;
+	}
+	.btnn :hover{
+		color: white;
+	}
+	.btn_clk{
+		position: absolute;
+		text-align: center;
+		background-color: gray;
+		color: white;
+		margin-top: 50%;
+		margin: 50%;
+		display: flex;
+	}
+	.so{
+		position: absolute;
+		text-align: center;
+		font-style: italic;
+		margin-top:250px;
+		margin: 30%;
+		float: left;
+	}
+	.yaz{
+		margin: 50%;
+	 }
+	 .cici {
+	 list-style-type: none;
+	 display: flex;
+	 }

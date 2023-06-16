@@ -1,0 +1,18 @@
+.konular{
+margin: 250px;
+}
+li{
+    list-style-type: none;
+}
+.konu{
+    font-size: 1.25rem;
+}
+.k{
+    margin-left: -5px;
+    font-size:1.30rem ;
+    margin-left: -30px ;
+}
+.s{
+    text-decoration: underline;
+    
+}
